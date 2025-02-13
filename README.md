@@ -1,7 +1,10 @@
- Hi, I'm Riyadh! 👋
-### Cybersecurity Enthusiast | Ethical Hacker | Future Tech Innovator
+# Hi, I'm Riyadh! 👋
+### IT Support | Networking | Cybersecurity Enthusiast
 
-I'm a **third-year Information Systems Security student at Sheridan College** with a deep passion for **cybersecurity, penetration testing, and AI-driven security automation**. My goal is to **push the boundaries of cybersecurity innovation** by leveraging **AI, automation, and cloud security** to build **cutting-edge security solutions**. I'm also fascinated by **satellite communication, networking, and ethical hacking**.
+I'm a **third-year Information Systems Security student at Sheridan College** with a strong background in **IT support, networking, and cybersecurity**. My expertise lies in **troubleshooting IT systems, managing networks, and securing infrastructures**. I have hands-on experience with **Active Directory, network configuration, and security tools**, and I enjoy working on real-world cybersecurity challenges.
+
+---
+
 
 ---
 
