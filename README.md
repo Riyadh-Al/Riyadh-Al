@@ -36,7 +36,7 @@ I'm a **third-year Information Systems Security student at Sheridan College** wi
 ## 🚀 Fun things I'm Working On:
 - **Software Reverse Engineering (Ghidra)**
 - **Network intrustion detection system (Snort)**
-- **Making youtube videos on the dozns of projects ive done
+- **Making youtube videos on some of the projects I've done.
 ---
 
 ## 📺 Featured YouTube Videos
@@ -47,8 +47,7 @@ I'm a **third-year Information Systems Security student at Sheridan College** wi
 ## 🔗 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://linkedin.com/in/riyadhal)
 [![GitHub](https://img.shields.io/badge/GitHub-Projects-black?style=flat&logo=github)](https://github.com/yourgithubusername)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=flat&logo=youtube)](https://www.youtube.com/c/yourchannel)
 
 ---
 
-💡 *"The best way to predict the future is to create it."* - Peter Drucker
+
