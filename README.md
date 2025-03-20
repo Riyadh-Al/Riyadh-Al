@@ -11,8 +11,8 @@ I'm a **third-year Information Systems Security student at Sheridan College** wi
 ## 🔥 Projects & Technical Work:
 
 ### **Cybersecurity & Networking**
-- **Network Security & VLAN Configurations** (Cisco Packet Tracer)
-- **RIPv2 & VLAN Implementation** (Cisco Packet Tracer)
+- **Network Security & VLAN Configurations** (GNS3)
+- **RIPv2 Implementation** (GNS3)
 - **Active Directory Security & Hardening** - [GitHub]
 - **Windows Server Deployment & Security** - [GitHub]
 
@@ -28,19 +28,19 @@ I'm a **third-year Information Systems Security student at Sheridan College** wi
 ## 📜 Certifications & Skills:
 - **CompTIA Network+** ✅
 - **Acronis Cloud Tech Fundementals ✅
-- **Windows Active Directory & Group Policy**
-- **OSINT & Digital Forensics**
 
 ---
 
 ## 🚀 Fun things I'm Working On:
 - **Software Reverse Engineering (Ghidra)**
 - **Network intrustion detection system (Snort)**
-- **Making youtube videos on some of the projects I've done.
+- **Making youtube videos on some of the projects I've done.""
 ---
 
 ## 📺 Featured YouTube Videos
+**RIPv2 Implementation** - https://youtu.be/w5Kgd4MYS98
 
+**Network Security & VLAN Configuration** - https://youtu.be/ZKg1Husvaqg
 
 ---
 
