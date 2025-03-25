@@ -34,7 +34,7 @@ I'm a **third-year Information Systems Security student at Sheridan College** wi
 ## 🚀 Fun things I'm Working On:
 - **Software Reverse Engineering (Ghidra)**
 - **Network intrustion detection system (Snort)**
-- **Making youtube videos on some of the projects I've done.""
+- **Making youtube videos on some of the projects I've done.**
 ---
 
 ## 📺 Featured YouTube Videos
