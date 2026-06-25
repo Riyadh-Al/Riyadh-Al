@@ -14,15 +14,15 @@ Eligible for a Government of Canada Secret-level security clearance.
 - **Malware Analysis & Incident Response.** Analyzed a phishing-based infection in an isolated Windows lab, identified host and network IOCs, investigated persistence and exfiltration, and mapped findings to MITRE ATT&CK. _(VMware, Autoruns, VirusTotal, PowerShell)_
 
 ### Forensics & Threat Hunting
-- **Incident Response & Digital Forensics** (Volatility & Autopsy) - [Repo](#)
-- **Compromised VM Analysis & Threat Hunting** - [Repo](#)
-- **Advanced OSINT Investigations** - [Repo](#)
+- **Incident Response & Digital Forensics** (Volatility & Autopsy) 
+- **Compromised VM Analysis & Threat Hunting** 
+- **Advanced OSINT Investigations**
 
 ### Networking & Infrastructure
-- **Network Security & VLAN Configuration** (GNS3) - [Repo](#)
-- **RIPv2 Implementation** (GNS3) - [Repo](#)
-- **Active Directory Security & Hardening** - [Repo](#)
-- **Windows Server Deployment & Security** - [Repo](#)
+- **Network Security & VLAN Configuration** (GNS3) 
+- **RIPv2 Implementation** (GNS3)
+- **Active Directory Security & Hardening**
+- **Windows Server Deployment & Security**
 
 ---
 
